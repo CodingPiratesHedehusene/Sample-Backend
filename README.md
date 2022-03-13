@@ -9,4 +9,4 @@ Der er forskellige værktøjer til at arbejde med REST api i .net
 Hvilket, der anvendes, er underordnet, men umiddelbart vurderer jeg Visual Studio Code er hurtigst at komme i gang med.
 ### Github
 Versionsstyring af kode kan gøres i GitHub. Coding Pirates Hedehusene har en organisation i Github på https://github.com/CodingPiratesHedehusene, hvor også dette repository kan findes (https://github.com/CodingPiratesHedehusene/Sample-Backend)
-Installation og kort guide findes i [GIT cheat sheet](GIT cheat sheet.md)
+Installation og kort guide (til kommandolinje) findes i [GIT cheat sheet](./GIT%20cheat%20sheet.md). Bemærk, at både Visual Studio Code og Visual Studio Community 2022 har god integration mod GitHub.
