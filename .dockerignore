@@ -1,0 +1,9 @@
+**/bin
+**/obj
+**/Dockerfile*
+**/.git*
+**/.vs*
+**/_ReSharper.Caches*
+**/.dockerignore*
+**/.azure-pipelines.yml*
+**/.azure-pipelines_old_cluster.yml*
