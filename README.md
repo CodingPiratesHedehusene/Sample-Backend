@@ -47,18 +47,49 @@ cd EksempelBackendAPI
 
 For at oprette et nyt project i .net anvendes kommandoen
 
-`dotnet new [skabelon]`
+```Powershell
+dotnet new [skabelon]
+```
 
 For at se en liste over tilgængelige skabeloner, bruger vi kommandoen
 
-`dotnet new --list`
+```Powershell
+dotnet new --list
+```
 
 For at oprette et Web API project (til REST API), skal vi have fat i skabelonen **ASP.NET Core Web API** (kort navn er **webapi**)
 
 Altså udfører vi kommandoen
 
-`dotnet new webapi`
+```Powershell
+dotnet new webapi
+```
 
 i Powershell-vinduet. Dette opretter et projekt med samme navn som den mappe, man udfører kommandoen i. Altså får vores projekt navnet **EksempelBackendAPI.csproj**.
 
 Skabelonen opretter et projekt, som indeholder en eksempel-controller samt kode til at starte og eksekvere projektet.
+
+## Mulige emner på overskrift niveau
+
+### Controllere - GET/POST/PUT/DELETE
+
+Lave funktioner til at hente, indsætte, opdatere og slette data via REST API i en almindelig browser (CRUD-operationer).
+
+### Lagring af data server side - SQL Lite?
+
+Opbygning af en databasestruktur
+Opbygning af datamodeller til beskrivelse af databasestrukturen
+Opbygning af repositories til at håndtere CRUD-operationer
+
+### Håndtering af fejlsituationer
+
+Hvad kan man sejle ud af igen, og hvad betyder totalt nedbrud.
+
+### Logning
+
+Logning af de fejl, der måtte opstå, så der kan fejlsøges på dem.
+Logning af informationer for at følge programflow.
+
+### Adgangskontrol (Authentication)
+
+Login via f.eks. Facebook, Google eller gammeldags brugernavn/adgangskode

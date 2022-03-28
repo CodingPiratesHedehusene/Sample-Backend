@@ -7,9 +7,9 @@ De fleste kommandoer er der understøttelse for i både Visual Studio Code og i 
 
 ## Installation af Git
 
-- **GitHub for Windows** https://windows.github.com
+- **GitHub for Windows** https://windows.github.com (Grafisk GIT interface til Windows)
 - **GitHub for Mac** https://mac.github.com
-- Andre platforme kan findes på http://git-scm.com
+- Andre platforme kan findes på http://git-scm.com (Omfatter også command line interface, der kan bruges i PowerShell eller Command prompt)
 
 ## Oprette repositories
 
